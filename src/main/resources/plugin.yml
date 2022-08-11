@@ -1,0 +1,4 @@
+name: DisableChorusFruit
+version: '${version}'
+main: org.mooner.disablechorusfruit.DisableChorusFruit
+api-version: 1.18
